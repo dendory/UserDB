@@ -89,7 +89,8 @@ Digest::SHA
 ### AUTHOR
 
 Patrick Lambert, <dendory@live.ca>
-COPYRIGHT AND LICENSE ^
+
+### COPYRIGHT AND LICENSE
 
 Copyright (C) 2014 by Patrick Lambert
 
